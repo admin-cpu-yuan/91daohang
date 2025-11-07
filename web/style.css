@@ -1,0 +1,49 @@
+input{
+border:1px solid #FFFF00;
+padding:5px;
+border-radius:5px;
+background-color:yellow;
+}
+a{
+    text-decoration: none;
+    border-radius: 8px;
+    background-color:orange;
+    border:5px solid #ffa500;
+    padding:50px;
+    color: black;
+    justify-content:center;
+    align-items:center;
+    display: flex;
+    padding-colour:orange;
+    opacity: 0.94;
+}
+h1{
+    color:red;
+    justify-content:center;
+    align-items:center;
+    display: flex;
+}
+h3{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    opacity: 0.91;
+    }
+footer{
+    display:flex;
+    height:60px;
+    justify-content:center;
+    align-items:center;
+    font-size:14px;
+    color:white;
+    background-color:green;
+}
+body{
+    background-image:url('https://img3.pcsoft.com.cn/capmobile/202411/215520-6743304825630.png');
+    opacity: 0.89;
+}
+img{
+    height: 50px;
+    weight: 50px;
+    }
